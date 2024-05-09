@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Email İle Giriş";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title text-center">Email İle Giriş</h2>
+
+                    <form asp-action="EmailLogin" asp-controller="Account" method="post">
+                        <div class="form-group">
+                            <label for="Email">E-posta Adresi</label>
+                            <input type="email" name="Email" placeholder="E-posta adresinizi girin" class="form-control" required />
+                        </div>
+
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary">Giriş Yap</button>
+                        </div>
+                    </form>
+
+                    @if (ViewData.ModelState.IsValid)
+                    {
+                       
+                        
+                    }
+                    else
+                    {
+                        <div class="alert alert-danger mt-3" role="alert">
+                            @foreach (var modelError in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                @modelError.ErrorMessage <br />
+                            }
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

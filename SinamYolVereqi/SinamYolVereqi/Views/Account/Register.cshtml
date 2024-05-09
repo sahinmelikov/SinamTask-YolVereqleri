@@ -1,0 +1,168 @@
+﻿@using SinamYolVereqi.ViewModel.Auth;
+
+
+@model RegisterVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Majestic Admin</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="~/admin/template/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="~/admin/template/vendors/base/vendor.bundle.base.css">
+    <!-- endinject -->
+    <!-- plugin css for this page -->
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="~/admin/template/css/style.css">
+    <!-- endinject -->
+    <link rel="shortcut icon" href="~/admin/template/images/favicon.png" />
+</head>
+
+<body>
+    <div class="container-scroller">
+        <div class="container-fluid page-body-wrapper full-page-wrapper">
+            <div class="content-wrapper d-flex align-items-stretch auth auth-img-bg">
+                <div class="row flex-grow">
+                    <div class="col-lg-6 d-flex align-items-center justify-content-center">
+                        <div class="auth-form-transparent text-left p-3">
+                            <div class="brand-logo">
+                              
+                            </div>
+                           
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <form class="pt-3" method="post">
+                                <div class="form-group">
+                                    <label asp-for="Fullname"></label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend bg-transparent">
+                                            <span class="input-group-text bg-transparent border-right-0">
+                                                <i class="mdi mdi-account-outline text-primary"></i>
+                                            </span>
+                                        </div>
+                                        <input asp-for="Fullname" class="form-control form-control-lg border-left-0">
+                                    </div>
+                                    <span class="text-danger" asp-validation-for="Username"></span>
+
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Username"></label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend bg-transparent">
+                                            <span class="input-group-text bg-transparent border-right-0">
+                                                <i class="mdi mdi-account-outline text-primary"></i>
+                                            </span>
+                                        </div>
+                                        <input asp-for="Username" class="form-control form-control-lg border-left-0">
+                                    </div>
+                                    <span class="text-danger" asp-validation-for="Username"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Email"></label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend bg-transparent">
+                                            <span class="input-group-text bg-transparent border-right-0">
+                                                <i class="mdi mdi-email-outline text-primary"></i>
+                                            </span>
+                                        </div>
+                                        <input asp-for="Email" class="form-control form-control-lg border-left-0">
+                                    </div>
+                                    <span class="text-danger" asp-validation-for="Email"></span>
+
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Password"></label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend bg-transparent">
+                                            <span class="input-group-text bg-transparent border-right-0">
+                                                <i class="mdi mdi-lock-outline text-primary"></i>
+                                            </span>
+                                        </div>
+                                        <input asp-for="Password" class="form-control form-control-lg border-left-0">
+                                    </div>
+                                    <span class="text-danger" asp-validation-for="Password"></span>
+
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="ConfirmPassword"></label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend bg-transparent">
+                                            <span class="input-group-text bg-transparent border-right-0">
+                                                <i class="mdi mdi-lock-outline text-primary"></i>
+                                            </span>
+                                        </div>
+                                        <input asp-for="ConfirmPassword" class="form-control form-control-lg border-left-0">
+                                    </div>
+                                    <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+
+                                </div>
+                                <div class="form-group">
+                                    <label for="userType">Choose user type:</label>
+                                    <select class="form-control" id="userType" onchange="showVOEN()">
+                                        <option value="user">İstifadəçi</option>
+                                        <option value="accountant">Muhasib</option>
+                                    </select>
+                                </div>
+                                <div class="form-group" id="voenField" style="display: none;">
+                                    <label asp-for="VOEN"></label>
+                                    <input asp-for="VOEN" class="form-control" />
+                                </div>
+
+                                <div class="mt-3">
+                                    <button type="submit" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">SIGN UP</button>
+                                </div>
+                                <div class="text-center mt-4 font-weight-light">
+                                    Already have an account? <a asp-controller="Account" asp-action="Login" class="text-primary">Login</a>
+                                </div>
+                                <div>
+                                </div>
+                            </form>
+
+                            <script>
+                                function showVOEN() {
+                                    var userType = document.getElementById("userType").value;
+                                    var voenField = document.getElementById("voenField");
+
+                                    if (userType === "accountant") {
+                                        voenField.style.display = "block";
+                                    } else {
+                                        voenField.style.display = "none";
+                                    }
+                                }
+
+                            </script>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6 register-half-bg d-flex flex-row">
+                        <p class="text-white font-weight-medium text-center flex-grow align-self-end">Copyright &copy; 2020  All rights reserved.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- content-wrapper ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    <script src="~/admin/template/vendors/base/vendor.bundle.base.js"></script>
+    <!-- endinject -->
+    <!-- inject:js -->
+    <script src="~/admin/template/js/off-canvas.js"></script>
+    <script src="~/admin/template/js/hoverable-collapse.js"></script>
+    <script src="~/admin/template/js/template.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- endinject -->
+</body>
+
+</html>
+
+

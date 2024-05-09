@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buraxılış vərəqi</title>
+    <link href="/BRXV/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/BRXV/Content/site.css" rel="stylesheet"/>
+
+    <script src="/BRXV/Scripts/modernizr-2.6.2.js"></script>
+
+    
+    <script src="/BRXV/Scripts/jquery.validate.wrapper.js"></script>
+
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <div class="navbar-brand" style="color:white;">DÖVLƏT İMTAHAN MƏRKƏZİ</div>
+            </div>
+        </div>
+    </div>
+    <div class="breadcrumb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">İMTAHANA BURAXILIŞ VƏRƏQƏSİ</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        
+        <div class="well well-lg">
+            <h1 class="text-center">Sistemə daxil olmaq</h1>
+            <div class="row">
+                <div class="form-group form-horizontal">
+<form action="/BRXV/login/login?page_id=1&amp;usdcnt=1&amp;usd=byS%2FSttzEd4%3D" autocomplete="off" class="full-form" method="post"><input name="__RequestVerificationToken" type="hidden" value="MlD8f94DWJkFxbg1Yuf26ICGOz2Klb5KNnBtW-PkyOhXxxZXj-8n-L25XQkANekW2bMyJBG85Me-Fp9Kq1LmFK48xC_7G_Agz45-6112Rmw1" /><input data-val="true" data-val-number="The field usdkab must be a number." data-val-required="The usdkab field is required." id="usdkab" name="usdkab" type="hidden" value="1" /><input data-val="true" data-val-number="The field usdcnt must be a number." data-val-required="The usdcnt field is required." id="usdcnt" name="usdcnt" type="hidden" value="1" />                            <div class="form-group">
+                                <label class="col-sm-5 control-label">İstifadə&#231;i adı</label>
+                                <div class="col-sm-6">
+                                    <input class="form-control" type="text" id="user0" name="user0" placeholder="İstifadə&#231;i adı" autocomplete="off" />
+                                    <span class="field-validation-valid text-danger" data-valmsg-for="user0" data-valmsg-replace="true"></span>
+                                    <br />
+                                    <p>
+                                        <input type="submit" id="next-step" class="btn btn-primary" name="next-step" value="Növbəti" />
+                                    </p>
+                                </div>
+                            </div>
+</form>                    <div class="form-group">
+                        <div class="col-sm-6">
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-12">
+                        <div class="text-right">
+<p>
+                                        <a target="_blank" href="/BRXV/YaddasKitab/yaddas_kitab_m2.pdf">Ali təhsil m&#252;əssisələrinin 
+magistraturalarına qəbul imtahanı <span class="badge badge-secondary">yaddaş kitabçası</span> </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+        </div>
+
+
+
+        <hr />
+        <footer>
+            <p>&copy; 2024 -DİM</p>
+        </footer>
+    </div>
+
+    
+</body>
+</html>

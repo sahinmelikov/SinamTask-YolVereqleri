@@ -1,0 +1,179 @@
+﻿@using static SinamYolVereqi.Controllers.HomeController
+@model YolSenedi
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yük Avtonəqliyyatı Üçün Yol Vərəqi</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+
+        .header h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .content {
+            margin-top: 20px;
+        }
+
+        .input-group {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .input-group-text {
+            background-color: transparent;
+            border: none;
+            border-bottom: 2px solid #007bff;
+            border-radius: 0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100px;
+            text-align: right;
+            padding-right: 10px;
+        }
+
+        .form-control {
+            border-radius: 0;
+            border-left: none;
+            border-right: none;
+            border-top: none;
+            box-shadow: none;
+            padding-left: 120px;
+            transition: box-shadow 0.3s;
+        }
+
+            .form-control:focus {
+                box-shadow: none;
+                border-color: #007bff;
+            }
+
+        .btn-primary {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin-top: 20px;
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Yük Avtonəqliyyatı Üçün Yol Vərəqi</h1>
+        </div>
+        <div class="content">
+            <div class="input-group">
+                <div class="input-group-text">Sürücü</div>
+                <input type="text" class="form-control" placeholder="____" readonly>
+                <div class="input-group-text">Masinin Seriya Nomresi</div>
+                <input type="text" class="form-control" placeholder="@Model.SeriyaNomresi" readonly>
+            </div>
+            
+            <div class="input-group">
+                <div class="input-group-text">Sürücü</div>
+                <input type="text" class="form-control" placeholder="____" readonly>
+                <div class="input-group-text">KAgizi veren Sahibkarin Adi</div>
+                <input type="text" class="form-control" placeholder="@Model.SahibkarinAdi" readonly>
+            </div>
+            <div class="input-group">
+                <div class="input-group-text">Sürücü</div>
+                <input type="text" class="form-control" placeholder="____" readonly>
+                <div class="input-group-text">Markasi</div>
+                <input type="text" class="form-control" placeholder="@Model.Marka" readonly>
+            </div>
+            <div class="input-group">
+                <div class="input-group-text">Sürücü</div>
+                <input type="text" class="form-control" placeholder="____" readonly>
+                <div class="input-group-text">Yararliliq muddeti</div>
+                <input type="text" class="form-control" placeholder="@Model.VerilmeMuddeti" readonly>
+            </div>
+            <div class="input-group">
+                <div class="input-group-text">Sürücü</div>
+                <input type="text" class="form-control" placeholder="____" readonly>
+                <div class="input-group-text">Tehvil Alan Sexsin Adi</div>
+                <input type="text" class="form-control" placeholder="@Model.TehvilAlaninAdi" readonly>
+            </div>
+        </div>
+    </div>
+    <form asp-route-carId="@Model.Id"  method="post"  asp-action="SlaydiYukle" asp-controller="Home">
+        <!-- Diğer form alanları -->
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+    <button id="downloadButton" class="btn btn-primary">Endir</button>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/docxtemplater/3.27.1/docxtemplater.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script>
+        document.getElementById('downloadButton').addEventListener('click', function () {
+            // Verileri al
+            var surucuAdi = "@Model.TehvilAlaninAdi";
+            var seriyaNomresi = "@Model.SeriyaNomresi";
+            var sahibkarinAdi = "@Model.SahibkarinAdi";
+            var marka = "@Model.Marka";
+            var verilmeMuddeti = "@Model.VerilmeMuddeti";
+            var tehvilAlaninAdi = "@Model.TehvilAlaninAdi";
+
+            // Belge şablonunu oluştur
+            var template = `
+                    Sürücü: ${surucuAdi}
+                    Masinin Seriya Nomresi: ${seriyaNomresi}
+
+                    Sürücü: ${surucuAdi}
+                    KAgizi veren Sahibkarin Adi: ${sahibkarinAdi}
+
+                    Sürücü: ${surucuAdi}
+                    Markasi: ${marka}
+
+                    Sürücü: ${surucuAdi}
+                    Yararliliq muddeti: ${verilmeMuddeti}
+
+                    Sürücü: ${surucuAdi}
+                    Tehvil Alan Sexsin Adi: ${tehvilAlaninAdi}
+                `;
+
+            // Belgeyi indir
+            var blob = new Blob([template], { type: 'application/msword' });
+            var url = URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = 'form_data.docx';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        });
+    </script>
+
+</body>
+</html>

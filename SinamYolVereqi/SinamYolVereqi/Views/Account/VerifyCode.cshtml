@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Doğrulama Kodu Girin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">Doğrulama Kodunuzu Daxil Edin</h2>
+                    @using (Html.BeginForm("VerifyCode", "Account", FormMethod.Post))
+                    {
+                        <div class="form-group">
+                            <label for="VerificationCode">Doğrulama Kodu</label>
+                            <input type="text" name="VerificationCode" class="form-control" required />
+                            <input type="hidden" name="Email" value="@TempData.Peek("Email")" />
+                        </div>
+                        <button type="submit" class="btn btn-primary">Doğrula</button>
+                    }
+
+                    @if (ViewBag.VerificationFailed != null && ViewBag.VerificationFailed == true)
+                    {
+                        <div class="alert alert-danger mt-3" role="alert">
+                            Girilen doğrulama kodu hatalı. Lütfen doğru bir kod girin.
+                        </div>
+                    }
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

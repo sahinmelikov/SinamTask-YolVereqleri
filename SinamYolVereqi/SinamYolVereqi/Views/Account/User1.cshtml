@@ -1,0 +1,93 @@
+﻿@model List<SinamYolVereqi.Models.YolSenedi>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yol Vereqesi Detayları</title>
+    <style>
+        /* CSS still goes here */
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #fff;
+        }
+
+            .container h2 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+        .detail-list {
+            list-style: none;
+            padding: 0;
+        }
+
+            .detail-list li {
+                margin-bottom: 10px;
+            }
+
+                .detail-list li strong {
+                    display: inline-block;
+                    width: 150px;
+                    font-weight: bold;
+                }
+    </style>
+</head>
+<body>
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+    else
+    {
+        <div class="container">
+            <h2>Yol Vereqesi Detayları</h2>
+            <ul class="detail-list">
+                @foreach (var item in Model)
+                {
+                    <li>
+                        <strong>Marka:</strong> @item.Marka
+                    </li>
+                    <li>
+                        <strong>Model:</strong> @item.Model
+                    </li>
+                    <li>
+                        <strong>Nomre:</strong> @item.Nomre
+                    </li>
+                    <li>
+                        <strong>Seriya Nomresi:</strong> @item.SeriyaNomresi
+                    </li>
+                    <li>
+                        <strong>Tehvil Alanın Adı:</strong> @item.TehvilAlaninAdi
+                    </li>
+                    <li>
+                        <strong>Tehvil Alanın E-postası:</strong> @item.TehvilAlaninEmaili
+                    </li>
+                    <li>
+                        <strong>Sahibkarın Adı:</strong> @item.SahibkarinAdi
+                    </li>
+                    <li>
+                        <strong>Verilme Müddeti:</strong> @item.VerilmeMuddeti
+                    </li>
+                    <hr> <!-- Optional: Add a horizontal line between each detail -->
+                }
+            </ul>
+        </div>
+    }
+</body>
+</html>

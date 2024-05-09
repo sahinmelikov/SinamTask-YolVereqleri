@@ -1,0 +1,159 @@
+﻿@using SinamYolVereqi.ViewModel
+@model BusinessmanViewModel;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sahibkarın Bilgileri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa; /* Arka plan rengi */
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start; /* İçeriklerin üst kısmından hizalamak için */
+            padding: 20px;
+        }
+
+        .sidebar {
+            flex: 1;
+            background-color: #fff; /* Yan menü arka plan rengi */
+            padding: 20px;
+            border-radius: 8px; /* Kenar yuvarlatma */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Gölge efekti */
+        }
+
+        .content {
+            flex: 3;
+            background-color: #fff; /* Ana içerik arka plan rengi */
+            padding: 20px;
+            border-radius: 8px; /* Kenar yuvarlatma */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Gölge efekti */
+        }
+
+        .card {
+            background-color: #f8f9fa; /* Kart arka plan rengi */
+            border: 1px solid #dee2e6; /* Kart kenar çizgisi */
+            border-radius: 8px; /* Kenar yuvarlatma */
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #343a40; /* Başlık metin rengi */
+        }
+
+        p {
+            margin-bottom: 5px;
+        }
+
+        .car-item {
+            list-style: none; /* Listenin madde işaretlerini gizle */
+            position: relative; /* Mutlak konumlandırma için */
+            padding-left: 30px; /* Madde içeriğinin sola kaymasını sağlar */
+            margin-bottom: 5px; /* Madde arasındaki boşluk */
+        }
+
+        .car-item::before {
+            content: ""; /* Madde içeriği öncesi boş bir içerik oluşturur */
+            position: absolute; /* Mutlak konumlandırma için */
+            left: 0; /* Sol kenara hizala */
+            top: 50%; /* Dikeyde ortala */
+            transform: translateY(-50%); /* Dikeyde kaydır */
+            width: 12px; /* Çember genişliği */
+            height: 12px; /* Çember yüksekliği */
+            border-radius: 50%; /* Çemberi yuvarlak yap */
+        }
+
+        .active::before {
+            background-color: green; /* Aktif arabanın çember rengi */
+            animation: blink 1s infinite; /* Yanıp sönme animasyonu */
+        }
+
+        @@keyframes blink {
+            0% { opacity: 1; } /* Tam görünür */
+            50% { opacity: 0; } /* Tamamen saydam */
+            100% { opacity: 1; } /* Tekrar tam görünür */
+        }
+
+        .form-container {
+            background-color: #fff; /* Form arka plan rengi */
+            padding: 20px;
+            border-radius: 8px; /* Kenar yuvarlatma */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Gölge efekti */
+            display: none; /* Başlangıçta gizli */
+            margin-top: 20px; /* Üst boşluk */
+        }
+
+        .active {
+            display: block; /* Etkin olduğunda görünür */
+        }
+
+        .btn-primary {
+            background-color: #007bff; /* Ana renk */
+            color: #fff; /* Yazı rengi */
+            border: none; /* Kenar çizgisi */
+            border-radius: 4px; /* Kenar yuvarlatma */
+            padding: 10px 20px; /* Dolgu alanı */
+            cursor: pointer; /* İmleç türü */
+            text-decoration: none; /* Metin alt çizgisi */
+            transition: background-color 0.3s; /* Geçiş efekti */
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Hover rengi */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="sidebar">
+        <div class="card sahibkar-bilgileri" id="sahibkar-bilgileri">
+            <h2>Sahibkarın Bilgileri</h2>
+            <p><strong>Ad:</strong> @Model.UserName</p>
+            <p><strong>Telefon:</strong> @Model.PhoneNumber</p>
+            <p><strong>E-posta:</strong> @Model.Email</p>
+            <!-- Diğer sahibkar bilgileri buraya eklenebilir -->
+        </div>
+        <div class="card arabalar" id="arabalar">
+            <h2>Sahibkarın Arabaları</h2>
+            <ul>
+                @foreach (var car in Model.UserCars)
+                {
+                    string isActiveClass = car.IsActive ? "active" : "";
+
+                    <a asp-route-id="@car.Id" asp-action="YolVereqesiYarat" asp-controller="Home">
+                        <li class="car-item @isActiveClass">
+                            @car.Kuza - @car.SeriyeVeNomresi
+                        </li>
+                    </a>
+
+                    <li><a asp-route-nomre="@car.QeydiyatNishani" asp-action="MasinVereqleri" asp-controller="Home">Sahibkarin Yol Vereqeleri</a></li>
+                }
+            </ul>
+        </div>
+      
+    </div>
+
+        <div class="content">
+                <a method="post" asp-controller="Account" asp-action="CreateCar" class="btn-primary">Masin elave et</a>
+       
+          
+               
+      
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,108 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 20px;
+        }
+
+        .image-container {
+            width: 200px;
+            height: 200px;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .car-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .parameters-container {
+            flex: 1;
+            padding-left: 20px;
+        }
+
+        .parameter {
+            margin-bottom: 10px;
+            list-style: none;
+        }
+
+        .btn-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            color: #fff;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+            }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            color: #fff;
+        }
+
+            .btn-secondary:hover {
+                background-color: #495057;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="image-container">
+            <img class="car-image" src="~/RootAllPictures/img/@Model.ImagePath" alt="Car Image">
+        </div>
+        <div class="parameters-container">
+            <ul>
+                <li class="parameter"><strong>Marka:</strong> @Model.Marka.MarkaName</li>
+                <li class="parameter"><strong>Kuza:</strong> @Model.Kuza</li>
+                <li class="parameter"><strong>Qeydiyat Nishani:</strong> @Model.QeydiyatNishani</li>
+                <li class="parameter"><strong>Ili:</strong> @Model.buraxilishili</li>
+                <li class="parameter"><strong>Rengi:</strong> @Model.Rengi</li>
+                <!-- Diğer parametreleri buraya ekleyebilirsiniz -->
+            </ul>
+            <div class="btn-container">
+                <form method="post" asp-controller="Account" asp-action="EmailBusinessMan">
+                    <input type="hidden" name="id" value="@Model.Id" /> <!-- Araba ID'sini gizli bir alan olarak gönderin -->
+                    <button type="submit" class="btn btn-primary">Yol Vereqesi Al</button>
+                </form>
+                <form method="get" asp-controller="Account" asp-action="SahibkarHaqqinda">
+                    <input type="hidden" name="id" value="@Model.Id" /> <!-- Araba ID'sini gizli bir alan olarak gönderin -->
+                    <button type="submit" class="btn btn-secondary">Sahibkar İle Elaqe</button>
+                </form>
+               
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

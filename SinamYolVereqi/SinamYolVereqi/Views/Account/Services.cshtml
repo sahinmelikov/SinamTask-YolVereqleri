@@ -1,0 +1,171 @@
+﻿
+
+<body>
+
+    <div class="services-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 elementor-column-left  ">
+                    <h1>Təklif olunan Xidmətlər</h1>
+                    <div class="page_link">
+                        <a asp-action="Index" asp-controller="Home">Home</a>
+                        <i class="fa-solid fa-arrow-right"></i>
+                        <a  asp-action="Services" asp-controller="Account">Services</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        /* Sola hareket animasyonu - fadeInLeft */
+        .elementor-column-left {
+            animation: fadeInLeft 9s ease-out;
+        }
+
+        /* Sağa hareket animasyonu - fadeInRight */
+        .elementor-column-right {
+            animation: fadeInRight 9s ease-out;
+        }
+
+        /* fadeInLeft animasyonunu tanımlayın */
+        @@keyframes fadeInLeft {
+            0% {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* fadeInRight animasyonunu tanımlayın */
+        @@keyframes fadeInRight {
+            0% {
+                opacity: 0;
+                transform: translateX(20px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+    </style>
+
+
+    <div class="services-section container">
+        <div class="row">
+            <div class="section-title col-12 elementor-column-left ">
+                <h2>Təklif olunan Xidmətlər</h2>
+                <p>
+                    Ağrının özünə qulluq etmək vacibdir və bu, xəstənin böyüməsi ilə müşayiət olunacaq, lakin eyni zamanda çox iş və ağrı olduğu da baş verəcəkdir.
+                </p>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-60  elementor-column-right">
+                <div class="single_service">
+                    <i class="fa-regular fa-hospital"></i>
+                    <a href="">
+                        <h4>24/7 Təcili</h4>
+                    </a>
+                    <p>
+                        qeyri-münasib davranışlar tez-tez “oğlanlar oğlan olacaq” kimi gülüş doğurur, qadınlar daha yüksək davranışla üzləşirlər.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-60 elementor-column-left">
+                <div class="single_service">
+                    <i class="fa-solid fa-heart-pulse"></i>
+                    <a href="">
+                        <h4>Ekspert Konsultasiyası</h4>
+                    </a>
+                    <p>
+                        qeyri-münasib davranışlar tez-tez “oğlanlar oğlan olacaq” kimi gülüş doğurur, qadınlar daha yüksək davranışla üzləşirlər.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-60 elementor-column-right">
+                <div class="single_service">
+                    <i class="fa-solid fa-hand-holding-medical"></i>
+                    <a href="">
+                        <h4>İntensiv Baxım</h4>
+                    </a>
+                    <p>
+                        qeyri-münasib davranışlar tez-tez “oğlanlar oğlan olacaq” kimi gülüş doğurur, qadınlar daha yüksək davranışla üzləşirlər.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-60 elementor-column-right">
+                <div class="single_service">
+                    <i class="fa-solid fa-people-roof"></i>
+                    <a href="">
+                        <h4>Ailə Planlaşdırılması</h4>
+                    </a>
+                    <p>
+                        qeyri-münasib davranışlar tez-tez “oğlanlar oğlan olacaq” kimi gülüş doğurur, qadınlar daha yüksək davranışla üzləşirlər.
+                    </p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="row boxes">
+        <div class="col-12 col-sm-6 col-md-6 col-lg-4 elementor-column-right">
+            <div class="box" style="background-image: url(https://preview.colorlib.com/theme/health/images/box_1.jpg);">
+                <div class="box_title">
+                    Vizyonumuz
+                </div>
+                <div class="box_subtitle">Bax</div>
+                <div class="box_text">
+                    Edə biləcəyimiz ən böyük şey gedək. Ömrün sonunda nə təbəssüm yaranır, nə də kədərli təbəssüm. Bir az yas var, amma hardasa şəfa vaxtıdır. Aenean o dapibus eleifend üçün Leo bir çox olsun. Gəmi qayıq kimi idi, vaxta qənaət edən yox, porta qabı idi. Sabah kim qrafiki qabaqlayır? Bəzən hamilə olurlar. Bununla belə, qab maraqlıdır.
+
+                </div>
+                <div class="box_button">
+                    <button>Daha Cox Oxu</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-6 col-lg-4 elementor-column-left">
+            <div class="box" style="background-image: url(https://preview.colorlib.com/theme/health/images/box_3.jpg);">
+                <div class="box_title">
+                    Mərkəzimiz
+                </div>
+                <div class="box_subtitle">
+                    Bax
+                </div>
+                <div class="box_text">
+                    Edə biləcəyimiz ən böyük şey gedək. Ömrün sonunda nə təbəssüm yaranır, nə də kədərli təbəssüm. Bir az yas var, amma hardasa şəfa vaxtıdır. Aenean o dapibus eleifend üçün Leo bir çox olsun. Gəmi qayıq kimi idi, vaxta qənaət edən yox, porta qabı idi. Sabah kim qrafiki qabaqlayır? Bəzən hamilə olurlar. Bununla belə, qab maraqlıdır.
+
+                </div>
+                <div class="box_button">
+                    <button>Daha Cox Oxu</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-6 col-lg-4 elementor-column-left">
+            <div class="box" style="background-image: url(https://preview.colorlib.com/theme/health/images/box_2.jpg);">
+                <div class="box_title">
+                    Bizim missiyamız
+                </div>
+                <div class="box_subtitle">
+              Bax
+                </div>
+                <div class="box_text">
+                    Edə biləcəyimiz ən böyük şey gedək. Ömrün sonunda nə təbəssüm yaranır, nə də kədərli təbəssüm. Bir az yas var, amma hardasa şəfa vaxtıdır. Aenean o dapibus eleifend üçün Leo bir çox olsun. Gəmi qayıq kimi idi, vaxta qənaət edən yox, porta qabı idi. Sabah kim qrafiki qabaqlayır? Bəzən hamilə olurlar. Bununla belə, qab maraqlıdır.
+
+                </div>
+                <div class="box_button">
+                    <button>Daha Cox Oxu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+</body>

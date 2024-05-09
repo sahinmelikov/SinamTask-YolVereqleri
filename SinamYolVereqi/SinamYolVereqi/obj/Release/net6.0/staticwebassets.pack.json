@@ -1,0 +1,897 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\SinamYolVereqi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SinamYolVereqi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\059e1edd-28eb-4d19-9b55-b3637bbc6285Ekran şəkli 2024-03-30 074219.png",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\059e1edd-28eb-4d19-9b55-b3637bbc6285Ekran şəkli 2024-03-30 074219.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\0bf8b2ac-68b0-4a00-96df-500c9705a9dbmilann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\0bf8b2ac-68b0-4a00-96df-500c9705a9dbmilann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\12d0b4db-fee2-4031-b443-c3eb21a787b316233066595294360c1b1a326dce.jpeg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\12d0b4db-fee2-4031-b443-c3eb21a787b316233066595294360c1b1a326dce.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\1feec170-ba8c-4896-8b8e-c513f35e2679hqdefault (2).jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\1feec170-ba8c-4896-8b8e-c513f35e2679hqdefault (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\2485e7a9-244e-4198-8973-5524c192a8f2gaz-gazel-1619112668_large.jpeg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\2485e7a9-244e-4198-8973-5524c192a8f2gaz-gazel-1619112668_large.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\3de242d0-e549-4d4a-ad79-0f1b0f5d6729aa.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\3de242d0-e549-4d4a-ad79-0f1b0f5d6729aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\4d40de17-4e2e-4a6f-b6cf-ede5a41d7d71milann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\4d40de17-4e2e-4a6f-b6cf-ede5a41d7d71milann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\55a37dac-c9cf-4cb7-a2bc-6f2ea62a307dWhatsApp Şəkil 2023-07-18 saat 17.04.56.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\55a37dac-c9cf-4cb7-a2bc-6f2ea62a307dWhatsApp Şəkil 2023-07-18 saat 17.04.56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\5bbd3f01-f6ec-41ee-8a2c-78e76400efc6logo (5).png",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\5bbd3f01-f6ec-41ee-8a2c-78e76400efc6logo (5).png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\62416501-2028-456f-aa9a-b97d0c4c6fe9Yeni-Hyundai-i30-Fotoğrafları-2.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\62416501-2028-456f-aa9a-b97d0c4c6fe9Yeni-Hyundai-i30-Fotoğrafları-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\62fc0cca-db5b-4f29-9042-82c8853b2d26aa.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\62fc0cca-db5b-4f29-9042-82c8853b2d26aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\98913a10-f12f-48d4-8845-89c80ed9765eMITSUBISHI_PAJERO_(V80-,_NS,_NT,_NW,_NX)_China_(4).jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\98913a10-f12f-48d4-8845-89c80ed9765eMITSUBISHI_PAJERO_(V80-,_NS,_NT,_NW,_NX)_China_(4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\c8e51729-139b-4fba-ae55-22c00f90da33milann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\c8e51729-139b-4fba-ae55-22c00f90da33milann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\ce42a97d-2cff-4cb9-a960-4eff08f5b3b3milann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\ce42a97d-2cff-4cb9-a960-4eff08f5b3b3milann-the-fertility-center-bangalore-1469596086-579841b6aa957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\d41db2cc-1a41-4d52-9528-0fa940dad9c9Ekran şəkli 2024-03-30 074013.png",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\d41db2cc-1a41-4d52-9528-0fa940dad9c9Ekran şəkli 2024-03-30 074013.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\d5821564-acbc-4e24-a6cc-3533b8ad98b0yol vereqesi.png",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\d5821564-acbc-4e24-a6cc-3533b8ad98b0yol vereqesi.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\e73ad382-8175-4a0b-b505-474c0037db85hqdefault.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\e73ad382-8175-4a0b-b505-474c0037db85hqdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\RootAllPictures\\img\\f2ef7714-9d1a-4fe1-a2c4-908de96de9f5hqdefault.jpg",
+      "PackagePath": "staticwebassets\\RootAllPictures\\img\\f2ef7714-9d1a-4fe1-a2c4-908de96de9f5hqdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\template\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\admin\\template\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\gulpfile.js",
+      "PackagePath": "staticwebassets\\admin\\template\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\template\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\index.html",
+      "PackagePath": "staticwebassets\\admin\\template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\template\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\package-lock.json",
+      "PackagePath": "staticwebassets\\admin\\template\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\package.json",
+      "PackagePath": "staticwebassets\\admin\\template\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\template\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\template\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\template\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\css\\WhatsApp Şəkil 2023-07-18 saat 17.04.56.jpg",
+      "PackagePath": "staticwebassets\\css\\WhatsApp Şəkil 2023-07-18 saat 17.04.56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\css\\aaaaaaaaaaa.jpg",
+      "PackagePath": "staticwebassets\\css\\aaaaaaaaaaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\js\\aa.js",
+      "PackagePath": "staticwebassets\\js\\aa.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\js\\bb.js",
+      "PackagePath": "staticwebassets\\js\\bb.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sahin\\Desktop\\YolvereqiSinam\\SinamYolVereqi\\SinamYolVereqi\\wwwroot\\yolvereqesi\\yol_vereqi_per_iase_yv1.pdf",
+      "PackagePath": "staticwebassets\\yolvereqesi\\yol_vereqi_per_iase_yv1.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.SinamYolVereqi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.SinamYolVereqi.props",
+      "PackagePath": "build\\SinamYolVereqi.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SinamYolVereqi.props",
+      "PackagePath": "buildMultiTargeting\\SinamYolVereqi.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.SinamYolVereqi.props",
+      "PackagePath": "buildTransitive\\SinamYolVereqi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

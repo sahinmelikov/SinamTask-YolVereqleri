@@ -1,0 +1,21 @@
+﻿@using SinamYolVereqi.ViewModel
+@model CarVM // SahibkarViewModel'in bulunduğu namespace'e göre güncelleyin
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">@Model.SahibkariName Hakkında Bilgiler</h3>
+        </div>
+        <div class="card-body">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item"><strong>Ad:</strong> @Model.SahibkariName</li>
+                <li class="list-group-item"><strong>Email:</strong> @Model.Email</li>
+                <!-- Diğer Sahibkar bilgileri buraya eklenir -->
+            </ul>
+            <hr>
+            <form method="post" action="mailto:@Model.Email" enctype="text/plain">
+                <button type="submit" class="btn btn-primary">Email Gönder</button>
+            </form>
+        </div>
+    </div>
+</div>

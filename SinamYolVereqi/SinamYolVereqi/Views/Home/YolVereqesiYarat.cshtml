@@ -1,0 +1,95 @@
+﻿@model SinamYolVereqi.Models.Car
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yol Vereqesi Yarat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+            form label {
+                display: block;
+                margin-bottom: 10px;
+                font-weight: bold;
+            }
+
+            form input[type="text"],
+            form input[type="email"] {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 20px;
+                border: 1px solid #ced4da;
+                border-radius: 4px;
+            }
+
+            form button {
+                background-color: #007bff;
+                color: #fff;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                transition: background-color 0.3s;
+            }
+
+                form button:hover {
+                    background-color: #0056b3;
+                }
+    </style>
+</head>
+<body>
+
+    <form method="post" asp-route-id="@Model.Id" asp-action="YolVereqesiYarat" asp-controller="Home">
+        <div>
+            <label for="marka">Marka:</label>
+            <input type="text" id="marka" name="Marka" value="@Model.Marka.MarkaName" readonly>
+        </div>
+        <div>
+            <label for="model">Model:</label>
+            <input type="text" id="model" name="Model" value="@Model.Marka.CarModels.First().ModelName" readonly>
+        </div>
+        <div>
+            <label for="nomre">Nomre:</label>
+            <input type="text" id="nomre" name="Nomre" value="@Model.QeydiyatNishani" readonly>
+        </div>
+        <div>
+            <label for="seriyaNomresi">Seriya Nomresi:</label>
+            <input type="text" id="seriyaNomresi" name="SeriyaNomresi" value="@Model.SeriyeVeNomresi" readonly>
+        </div>
+        <div>
+            <label for="TehvilAlaninAdi">Tehvil Alanın Adı:</label>
+            <input type="text" id="TehvilAlaninAdi" name="TehvilAlaninAdi">
+        </div>
+        <div>
+            <label for="TehvilAlaninEmaili">Tehvil Alanın E-postası:</label>
+            <input type="email" id="TehvilAlaninEmaili" name="TehvilAlaninEmaili">
+        </div>
+        <div>
+            <label for="SahibkarinAdi">Sahibkarın Adı:</label>
+            <input type="text" id="SahibkarinAdi" name="SahibkarinAdi" value="@Model.SahibkarName" readonly>
+        </div>
+        <div>
+            <label for="verilmeMuddeti">Verilme Müddeti:</label>
+            <input type="text" id="verilmeMuddeti" name="VerilmeMuddeti">
+        </div>
+        <button type="submit">Yol Vereqesi Yarat</button>
+    </form>
+
+</body>
+</html>
